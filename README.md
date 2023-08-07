@@ -3,8 +3,7 @@
 The Note Taker application provides a simple and intuitive interface for users to create, save, and manage notes. Here's a more detailed explanation of its functionality:
 
 
-https://github.com/Youngobz/Express.js-Note-Taker/assets/133522178/f41e059e-11fc-4d20-b7e9-4913b98344b1
-
+https://github.com/Youngobz/Express.js-Note-Taker/assets/133522178/616696be-26bb-4908-8f2e-e4109096f9f1
 
 
 

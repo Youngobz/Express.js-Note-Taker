@@ -1,7 +1,11 @@
 # Note Taker Application
 
 The Note Taker application provides a simple and intuitive interface for users to create, save, and manage notes. Here's a more detailed explanation of its functionality:
-https://github.com/Youngobz/Express.js-Note-Taker/assets/133522178/8ab97bd3-e0c4-47d1-ba87-27fb43ecdf97
+
+
+https://github.com/Youngobz/Express.js-Note-Taker/assets/133522178/d1d04c4f-c444-4f4a-b8af-5d57f6594e52
+
+
 ## Home Page:
 
 When you first open the application by navigating to http://localhost:<PORT>, you are greeted with a home page. This page introduces you to the Note Taker application and encourages you to get started.

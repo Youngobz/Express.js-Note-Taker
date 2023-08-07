@@ -34,7 +34,7 @@ Notes are stored in a JSON file named db.json. This file acts as a simple databa
 
 The Note Taker application is a convenient tool for users who want to jot down and organize their thoughts, ideas, and reminders. Whether you're a student, professional, or anyone who needs a digital notepad, this application provides a user-friendly interface for managing your notes efficiently.
 
-### Installation
+## Installation
 
 Clone the repository to your local machine:
 
